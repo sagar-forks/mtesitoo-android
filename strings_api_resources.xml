@@ -1,0 +1,69 @@
+<resources>
+    <string name="server">https://tesitoo.com/api/v1/</string>
+    <string name="path_oauth2_token">/oauth2/token</string>
+
+    <string name="path_product_product">/product/product</string>
+    <string name="params_product_name">name</string>
+    <string name="params_product_description">description</string>
+    <string name="params_product_price">price</string>
+    <string name="params_product_quantity">quantity</string>
+    <string name="params_product_meta_title">meta_title</string>
+    <string name="params_product_category_ids">category_ids</string>
+    <string name="params_product_expiry">expiration_date</string>
+    <string name="params_product_length_class_id">length_class_id</string>
+    <string name="params_product_weight_class_id">weight_class_id</string>
+    <string name="params_product_minimum">minimum</string>
+    <string name="params_product_image_main">main_product_image</string>
+    <string name="params_product_image_sort">sort_order</string>
+    <string name="params_product_status">status</string>
+    <string name="params_product_status_enabled">1</string>
+    <string name="params_product_status_pending">5</string>
+
+    <string name="path_vendor_register">/vendor/register</string>
+    <string name="params_register_name">username</string>
+    <string name="params_register_password">password</string>
+    <string name="params_register_firstname">firstname</string>
+    <string name="params_register_lastname">lastname</string>
+    <string name="params_register_email">email</string>
+    <string name="params_register_address_1">address_1</string>
+    <string name="params_register_address_2">address_2</string>
+    <string name="params_register_city">city</string>
+    <string name="params_register_postcode">postcode</string>
+    <string name="params_register_country_id">country_id</string>
+    <string name="params_register_zone_id">zone_id</string>
+    <string name="params_register_telephone">telephone</string>
+    <string name="params_register_company">company</string>
+    <string name="params_register_agree">agree</string>
+    <string name="params_business_description">vendor_description</string>
+
+    <string name="path_vendor_profile">/vendor/profile</string>
+
+    <string name="path_vendor_profile_image">/vendor/profile_image</string>
+
+    <string name="path_vendor_products">/vendor/products</string>
+
+    <string name="path_admin_password">/admin/password</string>
+    <string name="path_admin_forgot_password">/admin/forgot_password</string>
+
+    <string name="path_product_vendor">/product/vendor</string>
+    <string name="path_product_category">/product/category</string>
+    <string name="path_admin_login">/admin/login</string>
+    <string name="path_admin_login_by_code">/admin/login_by_code</string>
+    <string name="path_common_country">/common/country</string>
+    <string name="path_common_length">/common/length</string>
+    <string name="path_common_weight">/common/weight</string>
+    <string name="path_common_vendorterms">/common/vendorterms</string>
+
+    <string name="path_order_vendor">/vendor/order</string>
+    <string name="path_order_vendor_filterBy">filter_order_status</string>
+    <string name="path_order_vendor_product">/vendor/order_product</string>
+
+    <string name="params_customer_name">customer_name</string>
+    <string name="params_order_delivery_address">delivery_address</string>
+    <string name="params_order_total_price">total_price</string>
+    <string name="params_order_placed_date">order_placed_date</string>
+    <string name="params_order_payment_method">payment_method</string>
+    <string name="params_order_status_id">order_status_id</string>
+
+
+</resources>
